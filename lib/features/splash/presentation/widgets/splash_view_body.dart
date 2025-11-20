@@ -1,6 +1,6 @@
-import 'package:bookly_app/core/utils/app_router.dart';
-import 'package:bookly_app/core/utils/assets.dart';
-import 'package:bookly_app/features/Splash/Presentation/view_models/views/widgets/sliding_text.dart';
+import 'package:bookly_app/core/routing/app_router.dart';
+import 'package:bookly_app/core/constants/assets.dart';
+import 'package:bookly_app/features/Splash/presentation/widgets/sliding_text.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
